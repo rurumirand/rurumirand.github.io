@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "首頁網站標題"
+  name: "RuRuMirand"
   text: "首頁網站文字"
   tagline: 網站的獨特價值主張
   actions:
