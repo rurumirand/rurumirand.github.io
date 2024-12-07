@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "RuRuMirand"
-  text: "首頁網站文字"
-  tagline: 網站的獨特價值主張
+  text: "魯魯米瑞"
+  tagline: 負債女子的逆襲
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: "聰明理債"
+      link: /聰明理債
     - theme: alt
       text: API Examples
       link: /api-examples
